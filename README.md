@@ -1,1 +1,2 @@
-# crygoya
+https://csamii.github.io/crygoya/
+
