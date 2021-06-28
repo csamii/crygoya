@@ -2520,6 +2520,18 @@
         	grid-template-columns: 1fr;
       	}
 
+      	.transferwise-heading{
+      		font-size: 20px;
+      	}
+
+      	.bank-review{
+      		font-size: 12px;
+      	}
+
+      	.bank-visit{
+      		font-size: 12px;
+      	}
+
       	/*TRANSFER WISE PAGE*/
 
       	.twise-header{
